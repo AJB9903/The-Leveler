@@ -1,0 +1,29 @@
+Trade,Item,Unit,Quantity,Unit_Cost,Budget_Total,Description
+Drywall,5/8" Type X GWB,SF,10000,2.85,28500,Fire-rated gypsum wallboard for corridors
+Drywall,Metal Stud Framing 3-5/8",LF,5000,4.20,21000,3-5/8 inch 20ga metal stud wall framing
+Drywall,Acoustic Insulation,SF,8000,1.10,8800,Sound attenuation batts in partition walls
+Drywall,Tape & Finish Level 4,SF,18000,1.75,31500,Level 4 finish for paint-ready surfaces
+Drywall,Corner Bead,LF,2000,1.50,3000,Metal corner bead at all exposed corners
+MEP,HVAC Split System 5-Ton,EA,4,8500,34000,5-ton split system with programmable thermostat
+MEP,Ductwork Supply & Return,LB,2500,12.00,30000,Galvanized sheet metal ductwork fabrication
+MEP,Electrical Panel 200A,EA,2,4200,8400,200A main distribution panel with breakers
+MEP,Branch Circuit Wiring,EA,60,185,11100,120V/20A branch circuits including devices
+MEP,Plumbing Rough-In,EA,12,850,10200,Rough-in for fixtures including supply and waste
+MEP,Fire Sprinkler System,SF,15000,4.50,67500,Wet pipe fire suppression system
+MEP,Low Voltage / Data,EA,40,220,8800,Cat6 data drops with plates and patch panel
+Interiors,Flooring - LVP,SF,8500,6.25,53125,Luxury vinyl plank 6mm wear layer
+Interiors,Flooring - Carpet Tile,SF,4000,5.80,23200,Modular carpet tile in office areas
+Interiors,Acoustical Ceiling Grid,SF,6000,4.20,25200,15/16" exposed grid T-bar system
+Interiors,Acoustical Ceiling Tile,SF,6000,2.85,17100,2x4 Armstrong tegular ceiling tiles
+Interiors,Interior Doors,EA,24,650,15600,Solid core wood doors with hardware
+Interiors,Millwork - Base Cabinets,LF,80,285,22800,Custom base cabinets with laminate finish
+Interiors,Millwork - Upper Cabinets,LF,60,245,14700,Custom upper cabinets with laminate finish
+Interiors,Painting - Walls,SF,22000,1.45,31900,Two coats latex paint all interior walls
+Interiors,Painting - Ceilings,SF,10000,1.25,12500,Two coats flat ceiling paint
+Site Work,Earthwork & Grading,CY,500,28.00,14000,Rough grading and excavation
+Site Work,Asphalt Paving,SF,12000,3.80,45600,2" asphalt over 6" base course
+Site Work,Concrete Sidewalks,SF,3000,8.50,25500,4" concrete sidewalks with control joints
+Site Work,Storm Drainage,LF,400,65.00,26000,12" HDPE storm drainage pipe and structures
+Site Work,Landscaping & Sod,SF,5000,2.20,11000,Hydroseeding and sod installation
+Site Work,Site Lighting,EA,8,1850,14800,Pole-mounted LED site lighting fixtures
+Site Work,Fencing - Chain Link,LF,600,22.00,13200,6' chain link fence with gates
